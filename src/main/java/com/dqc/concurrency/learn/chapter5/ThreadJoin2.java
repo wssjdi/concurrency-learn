@@ -57,6 +57,6 @@ public class ThreadJoin2 {
             e.printStackTrace();
         }
 
-
+        System.out.println("this is end");
     }
 }
